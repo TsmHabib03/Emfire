@@ -1,0 +1,56 @@
+[
+  {
+    "asset": "emfire\\assets\\garment-01.png",
+    "source": "869579342_2387373058716950_1275080067566169440_n-removebg-preview (1).png",
+    "rotation": 0,
+    "garmentSize": [
+      560,
+      406
+    ]
+  },
+  {
+    "asset": "emfire\\assets\\garment-02.png",
+    "source": "863541192_2387372802050309_1855192408160285516_n-removebg-preview.png",
+    "rotation": 0,
+    "garmentSize": [
+      560,
+      429
+    ]
+  },
+  {
+    "asset": "emfire\\assets\\garment-03.png",
+    "source": "869579342_2387373058716950_1275080067566169440_n-removebg-preview.png",
+    "rotation": 0,
+    "garmentSize": [
+      560,
+      404
+    ]
+  },
+  {
+    "asset": "emfire\\assets\\garment-04.png",
+    "source": "890251736_2396721107782145_8750467228490287607_n-removebg-preview.png",
+    "rotation": 0,
+    "garmentSize": [
+      560,
+      439
+    ]
+  },
+  {
+    "asset": "emfire\\assets\\garment-05.png",
+    "source": "890196432_2396721284448794_4936342465877970947_n-removebg-preview.png",
+    "rotation": 0,
+    "garmentSize": [
+      560,
+      446
+    ]
+  },
+  {
+    "asset": "emfire\\assets\\garment-06.png",
+    "source": "638348786_2171631733624418_6239843444905298380_n-removebg-preview.png",
+    "rotation": -21.5,
+    "garmentSize": [
+      560,
+      488
+    ]
+  }
+]
